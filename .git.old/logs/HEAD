@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 e0e69ca3e9a199789e6974898ea4682d5f9c6f76 alansilv <alansilv@gmail.com> 1619300240 -0700	commit (initial): Initial Commit
+e0e69ca3e9a199789e6974898ea4682d5f9c6f76 14ae093eef7a1cda2bbeeb28f9446b3f82c8e38f alansilv <alansilv@gmail.com> 1619352877 -0700	commit: Angular Material instalado no projeto
+14ae093eef7a1cda2bbeeb28f9446b3f82c8e38f f8b0d516d3138435bef4860caac05ece57e1bacc alansilv <alansilv@gmail.com> 1619356493 -0700	commit: Criação dos templates
+f8b0d516d3138435bef4860caac05ece57e1bacc 0bc08c511d51a90d5f20e007e2cc1dfc27cee53b alansilv <alansilv@gmail.com> 1619368853 -0700	commit: Home implementado com rota
+0bc08c511d51a90d5f20e007e2cc1dfc27cee53b 838f784e2a40e6e8d0f114f0cd6bc7f17523b2c8 alansilv <alansilv@gmail.com> 1619374362 -0700	commit: Categoria-Read implementado
+838f784e2a40e6e8d0f114f0cd6bc7f17523b2c8 6418dc0882236cd80cd04591fa782929147d5cd0 alansilv <alansilv@gmail.com> 1619375602 -0700	commit: Ajustes no componente categoria-read
+6418dc0882236cd80cd04591fa782929147d5cd0 23e1356ee46872d4c85b5ee5d956bee1d31c8b2f alansilv <alansilv@gmail.com> 1619608541 -0700	commit: Metodo CREATE implementado para Categoria
+23e1356ee46872d4c85b5ee5d956bee1d31c8b2f bd7da76834e1191c2c1f9d83fa11f2d4ced64185 alansilv <alansilv@gmail.com> 1619608790 -0700	commit: finalizando o método CREATE
+bd7da76834e1191c2c1f9d83fa11f2d4ced64185 1c6c0ffd815ecd186075d9553ebaa1ff22438b70 alansilv <alansilv@gmail.com> 1620127875 -0700	commit: Categoria DELETE implementado
+1c6c0ffd815ecd186075d9553ebaa1ff22438b70 52cde89bed546dcddfe2407fc0506bd643b32955 alansilv <alansilv@gmail.com> 1620513022 -0700	commit: UPDATE para categoria foi implementado
+52cde89bed546dcddfe2407fc0506bd643b32955 1acc9f5aeabca7c293e8f383596e6c24af68c9e8 alansilv <alansilv@gmail.com> 1620514440 -0700	commit: Leitura de todos os livros por categoria implementado
+1acc9f5aeabca7c293e8f383596e6c24af68c9e8 69403566712075476efd948e5cfd5fbcb1f449a2 alansilv <alansilv@gmail.com> 1620519343 -0700	commit: UPDATE para livro implementado
+69403566712075476efd948e5cfd5fbcb1f449a2 d1ac00d0c8fd96f7dd3f70a5339e96392bbbb0d3 alansilv <alansilv@gmail.com> 1620520003 -0700	commit: DELETE para livro implementado
+d1ac00d0c8fd96f7dd3f70a5339e96392bbbb0d3 17df6c430988965ba3bb34684ebd1dec412b7074 alansilv <alansilv@gmail.com> 1620521247 -0700	commit: READ para livro implementado
